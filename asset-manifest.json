@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Huyhoang1512/phone-dict.github.io.git/static/css/main.9270a080.css",
+    "main.js": "/Huyhoang1512/phone-dict.github.io.git/static/js/main.5e43a2ce.js",
+    "static/js/453.8f8708ab.chunk.js": "/Huyhoang1512/phone-dict.github.io.git/static/js/453.8f8708ab.chunk.js",
+    "index.html": "/Huyhoang1512/phone-dict.github.io.git/index.html",
+    "main.9270a080.css.map": "/Huyhoang1512/phone-dict.github.io.git/static/css/main.9270a080.css.map",
+    "main.5e43a2ce.js.map": "/Huyhoang1512/phone-dict.github.io.git/static/js/main.5e43a2ce.js.map",
+    "453.8f8708ab.chunk.js.map": "/Huyhoang1512/phone-dict.github.io.git/static/js/453.8f8708ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9270a080.css",
+    "static/js/main.5e43a2ce.js"
+  ]
+}
